@@ -80,7 +80,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Adeosun Abiola Olalekan - [@abitech105](https://github.com/abitechcoder) - @hng-teamdrangonbones/frontend-team - Member  
 - Akerele Babatunde - [@trafiki](https://github.com/trafiki) - @hng-teamdrangonbones/frontend & backend-team - Member
 - Anuoluwapo Akinseye - [@an-apluss](https://github.com/an-apluss) - @hng-teamdragonbones/backend-team, design & frontend - Member
-- Nwosu David Ikechukwu - [@DavidNwosu](https://github.com/DavidNwosu) - @hng-teamdragonbones/frontend & backend-team - Member
+- Nwosu David Ikechukwu - [@DavidNwosu](https://github.com/DavidNwosu) - @hng-teamdragonbones/frontend & backend-team - Member 
 - Igunnu Emmanuel - [@Brainz] (https://github.com/Daemonicc) -@hng-teamdrangonbones/backend-team - Member
 - Ojinaka Tochukwu - [@sphinxcodex](https://github.com/sphinxcodex) - @hng-teamdrangonbones/backend-team - Member
 - Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
