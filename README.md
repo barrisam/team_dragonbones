@@ -26,7 +26,7 @@ The most important thing! Please update the README.md with your name in collabor
 - Open an issue, drop the link to the design (and maybe a screenshot) in the issue
 - Get reviews from other collaborators (if they love it)
 - Move forward with a PR in designs folder
-- Get merged and the design officially becomes the design for the project.'
+- Get merged and the design officially becomes the design for the project. '
 
 That will be lots of issue. Yea! true, but this provide a public archive to help track progress and how things will be over the next few months. Good Luck Developers! Happy Hacking!
 
